@@ -23,22 +23,29 @@ The Top Schools list, **_Figure 2_** before and after the scores for THS are mod
 
 No matter which view you take, **_Figures 3-8_**, show that there were no impacts to the average math, reading, or overall percentage scores.
 
+
 **_Figure 3: THS School Summary_**
+
 ![School Summary](/resources/School_summary.png)
 
-How does replacing the ninth-grade scores affect the following:
-Math and reading scores by grade
 
 **_Figure 4: Math Scores Comparison_**
+
 ![Math Scores Compare](/resources/math_scores_compare.png)
 
+
 **_Figure 5: Reading Scores Comparison_**
+
 ![Reading Scores Compare](/resources/reading_score_compare.png)
 
+
 **_Figure 6: Scores by School Spending_**
+
 ![Scores by Spend](/resources/scores_by_spend.png)
 
+
 **_Figure 7: Scores by School Size_**
+
 ![Scores by School](/resources/scores_by_school_size.png)
 
 **_Figure 8: Scores by School Type_**
