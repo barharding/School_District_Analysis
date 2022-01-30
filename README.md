@@ -16,7 +16,7 @@ How does replacing the ninth-grade scores affect the following:
 Math and reading scores by grade
 ![Math Scores Compare](/resources/math_scores_compare.png)
 
-![Reading Scores Compare](/resources/reading_scores_compare.png)
+![Reading Scores Compare](/resources/reading_score_compare.png)
 
 Scores by school spending
 ![Scores by Spend](/resources/scores_by_spend.png)
