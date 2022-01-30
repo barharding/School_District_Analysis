@@ -19,6 +19,7 @@ The Top Schools list, **_Figure 2_** before and after the scores for THS are mod
 ![Top School](/resources/top_schools.png)
 
 
+
 ###
 
 **_Figure 3: THS School Summary_**
