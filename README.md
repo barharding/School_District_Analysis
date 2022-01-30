@@ -22,7 +22,7 @@ Scores by school spending
 ![Scores by Spend](/resources/scores_by_spend.png)
 
 Scores by school size
-![Scores by School](/resources/scores_by_size.png)
+![Scores by School](/resources/scores_by_school_size.png)
 
 Scores by school type
 
