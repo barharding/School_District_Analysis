@@ -13,15 +13,15 @@ The district shool summary **_Figure 1_** shows there is no change in the averag
 ![District School Summary](/resources/district_summary.png)
 
 ### Top Schools & School Summary
-The Top Schools list, **_Figure 2_** before and after the scores for THS are modified shows little difference as well. 
+The Top Schools list, **_Figure 2_** before and after the scores for THS are modified shows little difference as well. THS was the 2nd ranked school based on the overall passing percentage and this remained true.
 
 **_Figure 2: Top Schools_**
 ![Top School](/resources/top_schools.png)
 
 
+### Affects of Replacing Scores
 
-
-###
+No matter which view you take, **_Figures 3-8_**, show that there were no impacts to the average math, reading, or overall percentage scores.
 
 **_Figure 3: THS School Summary_**
 ![School Summary](/resources/School_summary.png)
