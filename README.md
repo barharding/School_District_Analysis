@@ -1,9 +1,12 @@
 # School District Analysis
 ## Overview 
-of the school district analysis: Explain the purpose of this analysis.
+The school board believes the 9th grade math and reading scores for Thomas High School are showing signes of acedemic dishonety.  The purpose of this analysis is to evaluate the impact to the mean when the grade 9 scores for Thomas High School (THS) are excluded. from the analysis.  A before and after comparison should be telling if cheating has occurred.  
 
 ## Results
-Using bulleted lists and images of DataFrames as support, address the following questions.
+Before and after comparisons will be evaluated to understand the impacts of removing the 9th grade results for THS.
+
+The district shool summary shows there is no change
+
 
 How is the district summary affected?
 ![District School Summary](/resources/district_summary.png)
