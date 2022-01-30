@@ -5,36 +5,41 @@ The school board believes the 9th grade math and reading scores for Thomas High 
 ## Results
 Before and after comparisons will be evaluated to understand the impacts of removing the 9th grade results for THS.
 
+### District Summary
 The district shool summary **_Figure 1_** shows there is no change in the average scores or passing percentages.  Output 13 in the image excludes the 9th grade results from THS and there is no difference from the dataframe in output 88
 
-**_Figure 1_**
+**_Figure 1: District Summary_**
 
 ![District School Summary](/resources/district_summary.png)
 
+### Top Schools & School Summary
+The Top Schools list, **_Figure 2_** before and after the scores for THS are modified shows little difference as well. 
 
-The Top Schools list, **_Figure 2_** before and after the scores for THS are modified shows little difference as well.
-
-
-**_Figure 2_**
+**_Figure 2: Top Schools_**
 ![Top School](/resources/top_schools.png)
 
-Figure 3
+
+###
+
+**_Figure 3: THS School Summary_**
 ![School Summary](/resources/School_summary.png)
 
 How does replacing the ninth-grade scores affect the following:
 Math and reading scores by grade
+
+**_Figure 4: Math Scores Comparison_**
 ![Math Scores Compare](/resources/math_scores_compare.png)
 
+**_Figure 5: Reading Scores Comparison_**
 ![Reading Scores Compare](/resources/reading_score_compare.png)
 
-Scores by school spending
+**_Figure 6: Scores by School Spending_**
 ![Scores by Spend](/resources/scores_by_spend.png)
 
-Scores by school size
+**_Figure 7: Scores by School Size_**
 ![Scores by School](/resources/scores_by_school_size.png)
 
-Scores by school type
-
+**_Figure 8: Scores by School Type_**
 
 ![Scores by Type](/resources/scores_by_type.png)
 
