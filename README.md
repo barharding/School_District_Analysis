@@ -53,4 +53,4 @@ No matter which view you take, **_Figures 3-8_**, show that there were no impact
 ![Scores by Type](/resources/scores_by_type.png)
 
 ## Summary
-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+In summary academic dishonesty can not be found in the analysis above.  If it did exist when the THS 9th grade results were removed we would have seen some sort of drop in the mean.  Based on the evidence the mean changed by approximately 0.01% give or take in the reading and math percentages before and after.
