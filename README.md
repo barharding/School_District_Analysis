@@ -26,6 +26,7 @@ Scores by school size
 
 Scores by school type
 
+
 ![Scores by Type](/resources/scores_by_type.png)
 
 ## Summary
