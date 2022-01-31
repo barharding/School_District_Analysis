@@ -54,4 +54,4 @@ No matter which view you take, **_Figures 3-8_**, show that there were either ti
 ![Scores by Type](/resources/scores_by_type.png)
 
 ## Summary
-In summary academic dishonesty cannot be found in the analysis above.  If it did exist when the THS 9th grade results were removed we would have seen some sort of drop in the mean.  Based on the evidence the mean math scores fell by 0.08% and 0.29% for reading scores.  The overall passing percentage did not change drastically either.  The conclusion is no dishonesty can be detected in this data set.
+In summary, academic dishonesty cannot be found in the analysis above.  If it did exist when the THS 9th grade results were removed we would have seen some sort of telling change in the mean.  Based on the evidence the mean math scores fell by 0.08% and 0.29% for reading scores.  The overall passing percentage did not change drastically either.  The conclusion is no dishonesty can be detected in this data set.
