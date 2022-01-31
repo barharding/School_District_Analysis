@@ -13,7 +13,7 @@ The district shool summary **_Figure 1_** shows there is no change in the averag
 ![District School Summary](/resources/district_summary.png)
 
 ### Top Schools & School Summary
-In the Top Schools list, **_Figure 2_** output line 108 , THS was the 2nd highest ranked school based on the overall passing percentage.  After removing the nineth grade scores, output line 29 shows the school is still ranked in 2nd.  The overall, passing percentage dropped by a tiny fraction of 0.31%.  
+In the Top Schools list, the **_Figure 2_** output line 108, shows THS was the 2nd highest ranked school based on the overall passing percentage.  After removing the nineth grade scores, output line 29 shows the school is still ranked in 2nd.  The overall, passing percentage dropped by a tiny fraction of 0.31%.  
 
 **_Figure 2: Top Schools_**
 
