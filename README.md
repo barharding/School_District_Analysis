@@ -1,9 +1,9 @@
 # School District Analysis
 ## Overview 
-The school board believes the 9th grade math and reading scores for Thomas High School are showing signes of acedemic dishonety.  The purpose of this analysis is to evaluate the impact to the mean when the grade 9 scores for Thomas High School (THS) are excluded. from the analysis.  A before and after comparison should be telling if cheating has occurred.  
+The school board believes the 9th grade math and reading scores for Thomas High School are showing signs of acedemic dishonesty.  The purpose of this analysis is to evaluate the impact to the mean scores when the grade nine scores for Thomas High School (THS) are excluded from the analysis.  A before and after comparison should be telling if cheating has occurred.  
 
 ## Results
-Before and after comparisons will be evaluated to understand the impacts of removing the 9th grade results for THS.
+In the results below, the images will show the results from removing the greade nine scores (first line in the image) against the original tabulation which included the grade nine scores (second line in the image) for THS.
 
 ### District Summary
 The district shool summary **_Figure 1_** shows there is no change in the average scores or passing percentages.  Output 13 in the image excludes the 9th grade results from THS and there is no difference from the dataframe in output 88
