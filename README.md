@@ -3,7 +3,7 @@
 The school board believes the 9th grade math and reading scores for Thomas High School are showing signs of acedemic dishonesty.  The purpose of this analysis is to evaluate the impact to the mean scores when the grade nine scores for Thomas High School (THS) are excluded. A before and after comparison should be telling if cheating has occurred.  
 
 ## Results
-In the results below, the images will show the results from removing the greade nine scores (first line in the image) against the original tabulation which included the grade nine scores (second line in the image) for THS.
+In the results below, the images will show the results from removing the grade nine scores (first line in the image) against the original tabulation which included the grade nine scores (second line in the image) for THS.
 
 ### District Summary
 The district shool summary **_Figure 1_** shows there is no change in the average scores or passing percentages.  Output 13 in the image excludes the 9th grade results from THS and there is no difference from the dataframe in output 88
@@ -13,7 +13,7 @@ The district shool summary **_Figure 1_** shows there is no change in the averag
 ![District School Summary](/resources/district_summary.png)
 
 ### Top Schools & School Summary
-In the Top Schools list, the **_Figure 2_** output line 108, shows THS was the 2nd highest ranked school based on the overall passing percentage.  After removing the nineth grade scores, output line 29 shows the school is still ranked in 2nd.  The overall, passing percentage dropped by a tiny fraction of 0.31%.  
+In the Top Schools list, **_Figure 2_** output line 108, shows THS was the 2nd highest ranked school based on the overall passing percentage.  After removing the nineth grade scores, output line 29 shows the school is still ranked in 2nd.  The overall, passing percentage dropped by a tiny fraction of 0.31%.  
 
 **_Figure 2: Top Schools_**
 
