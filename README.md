@@ -22,7 +22,9 @@ In the Top Schools list, **_Figure 2_** output line 108 , THS was the 2nd highes
 
 ### Affects of Replacing Scores
 
-No matter which view you take, **_Figures 3-8_**, show that there were either tiny or no impacts to the average math, reading, or overall percentage scores.  This holds true regardless of the type of school, funding, or school size.  The average math scores fell by 0.087% and the average reading score dropped by 0.29% when the 9th grade scores were removed.  In both cases the mean on these scores remains fairly static.  There is no swing to the left or right which could be a clue if there were some deception.  There is no evidence based on these averages this is the case.
+No matter which view you take, **_Figures 3-8_**, show that there were either tiny or no impacts to the average math, reading, or overall percentage scores.  This holds true regardless of the type of school, funding, or school size.  
+
+The average math scores fell by 0.087% and the average reading score dropped by 0.29% when the 9th grade scores were removed.  In both cases the mean on these scores remains fairly static.  There is no large swing to the left or right which could be a clue if there were some deception.  
 
 
 **_Figure 3: THS School Summary_**
