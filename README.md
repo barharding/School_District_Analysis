@@ -16,6 +16,7 @@ The district shool summary **_Figure 1_** shows there is no change in the averag
 The Top Schools list, **_Figure 2_** before and after the scores for THS are modified shows little difference as well. THS was the 2nd ranked school based on the overall passing percentage and this remained true.
 
 **_Figure 2: Top Schools_**
+
 ![Top School](/resources/top_schools.png)
 
 
